@@ -1,9 +1,9 @@
 Name: Sahil Kothari
 Student ID: 202001112
-LAB-2
+LAB-2: Identifying functional and non functional requirements
 
 
-LIBRARY INFORMATION SYSTEM
+Q1) LIBRARY INFORMATION SYSTEM
 
 FUNCTIONAL REQUIREMENTS
 
@@ -22,6 +22,8 @@ Pre-booking on books: If a user wants a book which is already issued, then he ca
 Book issue date extension: If any user wants to extend their issue duration, the system must check if that book is pre booked or not. If not, then the duration can be extended. 
 
 Administrator login: The administrator or the librarian has to login into the system if any new book is brought to the library or any old one has  been discarded. The details of those books have to be updated in the system by the librarian.
+
+Staff login: The staff of the library should also have a login feature to handle the day-to-day book transactions. 
 
 Email: The user who has issued a book must be emailed about his due date of returning or the book he pre-booked earlier is available now. For those who did not return their book within time, an email with late return penalty fee must be sent. If any book is brought into the library, every user should get an email about it. 
 
@@ -54,8 +56,7 @@ Serviceability: The response time of the system should be as little as possible.
 
 
 
-
-Q2) 
+Q2) HEARING LOSS AID
 SCOPE
 
 Many people across the globe suffer from hearing disorders. The suggested application helps these people by catering their special needs. This application recognizes the different sounds from the environment like doorbell, car horn etc and alerts them via signals. In some cases, it even alerts their family members about them. With this application, people with difficulties in hearing can also stay connected with everyone making it an impactful solution for this community.
